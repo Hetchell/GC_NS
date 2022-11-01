@@ -1,1 +1,1 @@
-java -jar grasscutter-1.2.3-dev.jar
+java -jar grasscutter-1.4.3-dev.jar
